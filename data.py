@@ -11,7 +11,7 @@ from scipy.stats import pearsonr
 #import sklearn
 #import xgboost as xgb
 #from sklearn.ensemble import HistGradientBoostingRegressor
-file_path = 'Str\data\Stock_Data.xlsm'
+file_path = 'data/Stock_Data.xlsm'
 def load_data(sheet_name):
     import os
     if not os.path.exists(file_path):
