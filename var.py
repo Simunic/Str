@@ -1,6 +1,6 @@
 #import streamlit.components.v1 as components
 
-file_path = 'D:/Kiet/Hoc_Python/Str/data/Stock_Data.xlsm'
+file_path = 'Str/data/Stock_Data.xlsm'
 column_names = ['Ngay', 'GTGD','KLGD']
 mack_macdinh = "KL_BSR"
 #columns_to_hide = ["Ky_1","Ky_2","Ky_3","P1/P2","BQ/P3"]
