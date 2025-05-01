@@ -11,7 +11,7 @@ from scipy.stats import pearsonr
 #import sklearn
 #import xgboost as xgb
 #from sklearn.ensemble import HistGradientBoostingRegressor
-def load_data(sheet_name,file_path):
+def load_data(sheet_name):
     # Đọc dữ liệu từ file Excel
     df = pd.read_excel(
         file_path,
