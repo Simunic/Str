@@ -12,6 +12,11 @@ from scipy.stats import pearsonr
 #import xgboost as xgb
 #from sklearn.ensemble import HistGradientBoostingRegressor
 def load_data(sheet_name):
+    import os
+    if not os.path.exists(file_path):
+        st.error(f"❌ Không tìm thấy file tại: {file_path}")
+        st.stop() 
+    
     # Đọc dữ liệu từ file Excel
     df = pd.read_excel(
         file_path,
