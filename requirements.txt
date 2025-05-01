@@ -1,8 +1,2 @@
 streamlit
-pandas
-numpy
-openpyxl
-requests
-datetime
-numpy
-st_aggrid
+streamlit-aggrid 
