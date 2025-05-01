@@ -2,3 +2,4 @@ streamlit
 streamlit-aggrid
 scikit-learn
 matplotlib
+plotly
