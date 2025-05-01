@@ -1,0 +1,382 @@
+{
+    "data": [
+        {
+            "name": "KL_DCM",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "purple",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_BSR",
+            "KQ_Sign01": "19467",
+            "KQ_Sign02": "19291",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_HUT",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_NT2",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "19028",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VIX",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "9685",
+            "Color_Sign01": "purple",
+            "Color_Sign02": "yellow"
+        },
+        {
+            "name": "KL_CEO",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "yellow",
+            "Color_Sign02": "yellow"
+        },
+        {
+            "name": "KL_NVL",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "yellow",
+            "Color_Sign02": "yellow"
+        },
+        {
+            "name": "KL_BCG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "purple",
+            "Color_Sign02": "yellow"
+        },
+        {
+            "name": "KL_SBT",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_EIB",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VCG",
+            "KQ_Sign01": "17557",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "yellow",
+            "Color_Sign02": "yellow"
+        },
+        {
+            "name": "KL_HPG",
+            "KQ_Sign01": "26749",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "green",
+            "Color_Sign02": "yellow"
+        },
+        {
+            "name": "KL_NKG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_BID",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_GAS",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_QNS",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_CMX",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VND",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_HAH",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_CII",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VHM",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VIC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_KHG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_SSI",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_HQC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_IDI",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "red",
+            "Color_Sign02": "red"
+        },
+        {
+            "name": "KL_DIG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_MSN",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_PAN",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "green",
+            "Color_Sign02": "green"
+        },
+        {
+            "name": "KL_PC1",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_KBC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VCI",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_MBB",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_DPG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_GEX",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "18448",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_KDH",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_GIL",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_DRC",
+            "KQ_Sign01": "28602",
+            "KQ_Sign02": "28930",
+            "Color_Sign01": "green",
+            "Color_Sign02": "green"
+        },
+        {
+            "name": "KL_CTS",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_MBS",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_ANV",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_TNG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_PVS",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_SZC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VNM",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_GVR",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_PVT",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_DBC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_HAG",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_PVD",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_IJC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_POW",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_ITC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        },
+        {
+            "name": "KL_VGC",
+            "KQ_Sign01": "0",
+            "KQ_Sign02": "0",
+            "Color_Sign01": "white",
+            "Color_Sign02": "white"
+        }
+    ]
+}
