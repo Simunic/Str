@@ -280,8 +280,8 @@ with col6:
         if mack != st.session_state.sheet_name:
             data_org = load_data(st.session_state.sheet_name)
 
-data_org = load_data(st.session_state.sheet_name)
-data_ai = load_data(st.session_state.sheet_name)
+data_org = load_data(st.session_state.sheet_name, file_path = 'Str/data/Stock_Data.xlsm')
+data_ai = load_data(st.session_state.sheet_name, file_path = 'Str/data/Stock_Data.xlsm')
 #data_ai = data_org
 data_org['Ngay'] = pd.to_datetime(data_org['Ngay'], format='%d/%m/%y', errors='coerce')
 data_org['Ngay'] = data_org['Ngay'].dt.strftime('%d/%m/%y')
